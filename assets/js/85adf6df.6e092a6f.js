@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkeverybot_docs=self.webpackChunkeverybot_docs||[]).push([[3927],{79327:e=>{e.exports=JSON.parse('{"label":"BOM Stock","permalink":"/Everybot-Docs/blog/tags/bom-stock","allTagsPath":"/Everybot-Docs/blog/tags","count":1,"unlisted":false}')}}]);
