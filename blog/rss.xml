@@ -4,29 +4,19 @@
         <title>Everybot Docs Blog</title>
         <link>https://github.com/Everybot-Docs/blog</link>
         <description>Everybot Docs Blog</description>
-        <lastBuildDate>Mon, 13 Feb 2023 18:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Jan 2024 18:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Copyright © 2024 THE ROBONAUTS</copyright>
         <item>
-            <title><![CDATA[Finishing Touches Section Released]]></title>
-            <link>https://github.com/Everybot-Docs/blog/finishing-touches-released</link>
-            <guid>https://github.com/Everybot-Docs/blog/finishing-touches-released</guid>
-            <pubDate>Mon, 13 Feb 2023 18:00:00 GMT</pubDate>
-            <description><![CDATA[Sup, we released our finishing touches build section along with the videos.]]></description>
-            <content:encoded><![CDATA[<p>Sup, we released our finishing touches build section along with the videos.</p>]]></content:encoded>
-            <category>Manual Additions</category>
-            <category>Videos Released</category>
-        </item>
-        <item>
-            <title><![CDATA[Supply Issues With The MAX 90 Degree Gearbox]]></title>
-            <link>https://github.com/Everybot-Docs/blog/supply</link>
-            <guid>https://github.com/Everybot-Docs/blog/supply</guid>
-            <pubDate>Wed, 01 Feb 2023 18:00:00 GMT</pubDate>
-            <description><![CDATA[Hello all, we were informed that there are supply issues with the 90 degree gearbox, here are some fixes:]]></description>
-            <content:encoded><![CDATA[<p>Hello all, we were informed that there are supply issues with the 90 degree gearbox, here are some fixes:</p>]]></content:encoded>
-            <category>BOM Stock</category>
+            <title><![CDATA[We are live!]]></title>
+            <link>https://github.com/Everybot-Docs/blog/release</link>
+            <guid>https://github.com/Everybot-Docs/blog/release</guid>
+            <pubDate>Mon, 01 Jan 2024 18:00:00 GMT</pubDate>
+            <description><![CDATA[Welcome to the Everybot documentation site! More updates to come soon.]]></description>
+            <content:encoded><![CDATA[<p>Welcome to the Everybot documentation site! More updates to come soon.</p>]]></content:encoded>
+            <category>Site Updates</category>
         </item>
     </channel>
 </rss>

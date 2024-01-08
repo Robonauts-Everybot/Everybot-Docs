@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkeverybot_docs=self.webpackChunkeverybot_docs||[]).push([[6018],{13533:e=>{e.exports=JSON.parse('{"permalink":"/Everybot-Docs/blog/tags/videos-released","page":1,"postsPerPage":10,"totalPages":1,"totalCount":2,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
