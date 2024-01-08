@@ -10,12 +10,32 @@
         <language>en</language>
         <copyright>Copyright © 2024 THE ROBONAUTS</copyright>
         <item>
+            <title><![CDATA[This is an update.]]></title>
+            <link>https://github.com/Everybot-Docs/blog/Update</link>
+            <guid>https://github.com/Everybot-Docs/blog/Update</guid>
+            <pubDate>Mon, 01 Jan 2024 18:00:00 GMT</pubDate>
+            <description><![CDATA[Updates will exist in the updates tab and the newest two updates will exist on the home page. Look for updates about Everybot documentation, critical component stock and updates the Everybot Evergreens.]]></description>
+            <content:encoded><![CDATA[<p>Updates will exist in the updates tab and the newest two updates will exist on the home page. Look for updates about Everybot documentation, critical component stock and updates the Everybot Evergreens.</p>]]></content:encoded>
+            <category>Site Update</category>
+        </item>
+        <item>
             <title><![CDATA[We are live!]]></title>
             <link>https://github.com/Everybot-Docs/blog/release</link>
             <guid>https://github.com/Everybot-Docs/blog/release</guid>
             <pubDate>Mon, 01 Jan 2024 18:00:00 GMT</pubDate>
-            <description><![CDATA[Welcome to the Everybot documentation site! More updates to come soon.]]></description>
-            <content:encoded><![CDATA[<p>Welcome to the Everybot documentation site! More updates to come soon.</p>]]></content:encoded>
+            <description><![CDATA[Welcome to the Everybot documentation site!]]></description>
+            <content:encoded><![CDATA[<p>Welcome to the Everybot documentation site!</p>
+<br>
+<p>With this move we hope to accomplish the following:</p>
+<ul>
+<li>Move away Google Doc as the public facing manual without heavily sacrificing collaboration, printability or ease of use</li>
+<li>Improve navigation of the manual</li>
+<li>Host resources relevant to Everybot and FRC teams in general</li>
+<li>Allow for the integration of those resources into the manual to give more context to specific actions</li>
+<li>Provide updates to teams on additions/changes to the manual and major events (critical out of stock components, etc.)</li>
+</ul>
+<br>
+<p>Plenty more content is on the way, look out for it in the coming weeks.</p>]]></content:encoded>
             <category>Site Updates</category>
         </item>
     </channel>
