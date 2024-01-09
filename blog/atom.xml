@@ -2,30 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/Everybot-Docs/blog</id>
     <title>Everybot Docs Blog</title>
-    <updated>2024-01-01T18:00:00.000Z</updated>
+    <updated>2024-01-08T18:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/Everybot-Docs/blog"/>
     <subtitle>Everybot Docs Blog</subtitle>
     <icon>https://github.com/Everybot-Docs/img/favicon.ico</icon>
     <rights>Copyright © 2024 THE ROBONAUTS</rights>
     <entry>
-        <title type="html"><![CDATA[This is an update.]]></title>
-        <id>https://github.com/Everybot-Docs/blog/Update</id>
-        <link href="https://github.com/Everybot-Docs/blog/Update"/>
-        <updated>2024-01-01T18:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Updates will exist in the updates tab and the newest two updates will exist on the home page. Look for updates about Everybot documentation, critical component stock and updates the Everybot Evergreens.]]></summary>
-        <content type="html"><![CDATA[<p>Updates will exist in the updates tab and the newest two updates will exist on the home page. Look for updates about Everybot documentation, critical component stock and updates the Everybot Evergreens.</p>]]></content>
-        <category label="Site Update" term="Site Update"/>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[We are live!]]></title>
         <id>https://github.com/Everybot-Docs/blog/release</id>
         <link href="https://github.com/Everybot-Docs/blog/release"/>
-        <updated>2024-01-01T18:00:00.000Z</updated>
+        <updated>2024-01-08T18:00:00.000Z</updated>
         <summary type="html"><![CDATA[Welcome to the Everybot documentation site!]]></summary>
-        <content type="html"><![CDATA[<p>Welcome to the Everybot documentation site!</p>
+        <content type="html"><![CDATA[<h2 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="welcome-to-the-everybot-documentation-site">Welcome to the Everybot documentation site!<a href="https://github.com/Everybot-Docs/blog/release#welcome-to-the-everybot-documentation-site" class="hash-link" aria-label="Direct link to Welcome to the Everybot documentation site!" title="Direct link to Welcome to the Everybot documentation site!">​</a></h2>
 <br>
 <p>With this move we hope to accomplish the following:</p>
+<br>
 <ul>
 <li>Move away Google Doc as the public facing manual without heavily sacrificing collaboration, printability or ease of use</li>
 <li>Improve navigation of the manual</li>
@@ -36,5 +28,14 @@
 <br>
 <p>Plenty more content is on the way, look out for it in the coming weeks.</p>]]></content>
         <category label="Site Updates" term="Site Updates"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[This is an update.]]></title>
+        <id>https://github.com/Everybot-Docs/blog/Update</id>
+        <link href="https://github.com/Everybot-Docs/blog/Update"/>
+        <updated>2024-01-08T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Updates will exist in the updates tab and the newest two updates will exist on the home page. Look for updates about Everybot documentation, critical component stock and updates the Everybot Evergreens.]]></summary>
+        <content type="html"><![CDATA[<p>Updates will exist in the updates tab and the newest two updates will exist on the home page. Look for updates about Everybot documentation, critical component stock and updates the Everybot Evergreens.</p>]]></content>
+        <category label="Site Update" term="Site Update"/>
     </entry>
 </feed>

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkeverybot_docs=self.webpackChunkeverybot_docs||[]).push([[621],{471:e=>{e.exports=JSON.parse('[{"label":"Site Update","permalink":"/Everybot-Docs/blog/tags/site-update","count":1},{"label":"Site Updates","permalink":"/Everybot-Docs/blog/tags/site-updates","count":1}]')}}]);

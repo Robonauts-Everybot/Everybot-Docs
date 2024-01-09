@@ -5,25 +5,25 @@
     "description": "Everybot Docs Blog",
     "items": [
         {
+            "id": "https://github.com/Everybot-Docs/blog/release",
+            "content_html": "<h2 class=\"anchor anchorWithHideOnScrollNavbar_WYt5\" id=\"welcome-to-the-everybot-documentation-site\">Welcome to the Everybot documentation site!<a href=\"https://github.com/Everybot-Docs/blog/release#welcome-to-the-everybot-documentation-site\" class=\"hash-link\" aria-label=\"Direct link to Welcome to the Everybot documentation site!\" title=\"Direct link to Welcome to the Everybot documentation site!\">​</a></h2>\n<br>\n<p>With this move we hope to accomplish the following:</p>\n<br>\n<ul>\n<li>Move away Google Doc as the public facing manual without heavily sacrificing collaboration, printability or ease of use</li>\n<li>Improve navigation of the manual</li>\n<li>Host resources relevant to Everybot and FRC teams in general</li>\n<li>Allow for the integration of those resources into the manual to give more context to specific actions</li>\n<li>Provide updates to teams on additions/changes to the manual and major events (critical out of stock components, etc.)</li>\n</ul>\n<br>\n<p>Plenty more content is on the way, look out for it in the coming weeks.</p>",
+            "url": "https://github.com/Everybot-Docs/blog/release",
+            "title": "We are live!",
+            "summary": "Welcome to the Everybot documentation site!",
+            "date_modified": "2024-01-08T18:00:00.000Z",
+            "tags": [
+                "Site Updates"
+            ]
+        },
+        {
             "id": "https://github.com/Everybot-Docs/blog/Update",
             "content_html": "<p>Updates will exist in the updates tab and the newest two updates will exist on the home page. Look for updates about Everybot documentation, critical component stock and updates the Everybot Evergreens.</p>",
             "url": "https://github.com/Everybot-Docs/blog/Update",
             "title": "This is an update.",
             "summary": "Updates will exist in the updates tab and the newest two updates will exist on the home page. Look for updates about Everybot documentation, critical component stock and updates the Everybot Evergreens.",
-            "date_modified": "2024-01-01T18:00:00.000Z",
+            "date_modified": "2024-01-08T17:00:00.000Z",
             "tags": [
                 "Site Update"
-            ]
-        },
-        {
-            "id": "https://github.com/Everybot-Docs/blog/release",
-            "content_html": "<p>Welcome to the Everybot documentation site!</p>\n<br>\n<p>With this move we hope to accomplish the following:</p>\n<ul>\n<li>Move away Google Doc as the public facing manual without heavily sacrificing collaboration, printability or ease of use</li>\n<li>Improve navigation of the manual</li>\n<li>Host resources relevant to Everybot and FRC teams in general</li>\n<li>Allow for the integration of those resources into the manual to give more context to specific actions</li>\n<li>Provide updates to teams on additions/changes to the manual and major events (critical out of stock components, etc.)</li>\n</ul>\n<br>\n<p>Plenty more content is on the way, look out for it in the coming weeks.</p>",
-            "url": "https://github.com/Everybot-Docs/blog/release",
-            "title": "We are live!",
-            "summary": "Welcome to the Everybot documentation site!",
-            "date_modified": "2024-01-01T18:00:00.000Z",
-            "tags": [
-                "Site Updates"
             ]
         }
     ]
