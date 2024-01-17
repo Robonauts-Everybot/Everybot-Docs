@@ -2,12 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/Everybot-Docs/blog</id>
     <title>Everybot Docs Blog</title>
-    <updated>2024-01-08T18:00:00.000Z</updated>
+    <updated>2024-01-17T18:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/Everybot-Docs/blog"/>
     <subtitle>Everybot Docs Blog</subtitle>
     <icon>https://github.com/Everybot-Docs/img/favicon.ico</icon>
     <rights>Copyright © 2024 THE ROBONAUTS</rights>
+    <entry>
+        <title type="html"><![CDATA[Everybot released!]]></title>
+        <id>https://github.com/Everybot-Docs/blog/everybotLive</id>
+        <link href="https://github.com/Everybot-Docs/blog/everybotLive"/>
+        <updated>2024-01-17T18:00:00.000Z</updated>
+        <summary type="html"><![CDATA[With the Everybot reveal, the following resources have become available:]]></summary>
+        <content type="html"><![CDATA[<p>With the Everybot reveal, the following resources have become available:</p>
+<br>
+<ul>
+<li>Manual with sections on the chassis, roller claw, climb and electrical layout</li>
+<li>CAD</li>
+<li>Code</li>
+<li>Bill of materials</li>
+</ul>
+<p>We hope to release our ballast and bumpers sections by the end of the week. Additionally there are some programming specific resources (deploying code, imaging the roboRIO, etc.) on the way!</p>]]></content>
+        <category label="Everybot resources" term="Everybot resources"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[We are live!]]></title>
         <id>https://github.com/Everybot-Docs/blog/release</id>
@@ -29,14 +46,5 @@
 <p>Currently, we have electrical and chassis sections for the KitBot.</p>
 <p>Plenty more content is on the way, look out for it in the coming weeks.</p>]]></content>
         <category label="Site Updates" term="Site Updates"/>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[This is an update.]]></title>
-        <id>https://github.com/Everybot-Docs/blog/Update</id>
-        <link href="https://github.com/Everybot-Docs/blog/Update"/>
-        <updated>2024-01-08T17:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Updates will exist in the updates tab and the newest two updates will exist on the home page. Look for updates about Everybot documentation, critical component stock and updates the Everybot Evergreens.]]></summary>
-        <content type="html"><![CDATA[<p>Updates will exist in the updates tab and the newest two updates will exist on the home page. Look for updates about Everybot documentation, critical component stock and updates the Everybot Evergreens.</p>]]></content>
-        <category label="Site Update" term="Site Update"/>
     </entry>
 </feed>

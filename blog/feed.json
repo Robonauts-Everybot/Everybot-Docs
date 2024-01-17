@@ -5,6 +5,17 @@
     "description": "Everybot Docs Blog",
     "items": [
         {
+            "id": "https://github.com/Everybot-Docs/blog/everybotLive",
+            "content_html": "<p>With the Everybot reveal, the following resources have become available:</p>\n<br>\n<ul>\n<li>Manual with sections on the chassis, roller claw, climb and electrical layout</li>\n<li>CAD</li>\n<li>Code</li>\n<li>Bill of materials</li>\n</ul>\n<p>We hope to release our ballast and bumpers sections by the end of the week. Additionally there are some programming specific resources (deploying code, imaging the roboRIO, etc.) on the way!</p>",
+            "url": "https://github.com/Everybot-Docs/blog/everybotLive",
+            "title": "Everybot released!",
+            "summary": "With the Everybot reveal, the following resources have become available:",
+            "date_modified": "2024-01-17T18:00:00.000Z",
+            "tags": [
+                "Everybot resources"
+            ]
+        },
+        {
             "id": "https://github.com/Everybot-Docs/blog/release",
             "content_html": "<h2 class=\"anchor anchorWithHideOnScrollNavbar_WYt5\" id=\"welcome-to-the-everybot-documentation-site\">Welcome to the Everybot documentation site!<a href=\"https://github.com/Everybot-Docs/blog/release#welcome-to-the-everybot-documentation-site\" class=\"hash-link\" aria-label=\"Direct link to Welcome to the Everybot documentation site!\" title=\"Direct link to Welcome to the Everybot documentation site!\">​</a></h2>\n<br>\n<p>With this move we hope to accomplish the following:</p>\n<br>\n<ul>\n<li>Move away Google Doc as the public facing manual without heavily sacrificing collaboration, printability or ease of use</li>\n<li>Improve navigation of the manual</li>\n<li>Host resources relevant to Everybot and FRC teams in general</li>\n<li>Allow for the integration of those resources into the manual to give more context to specific actions</li>\n<li>Provide updates to teams on additions/changes to the manual and major events (critical out of stock components, etc.)</li>\n</ul>\n<br>\n<p>Currently, we have electrical and chassis sections for the KitBot.</p>\n<p>Plenty more content is on the way, look out for it in the coming weeks.</p>",
             "url": "https://github.com/Everybot-Docs/blog/release",
@@ -13,17 +24,6 @@
             "date_modified": "2024-01-08T18:00:00.000Z",
             "tags": [
                 "Site Updates"
-            ]
-        },
-        {
-            "id": "https://github.com/Everybot-Docs/blog/Update",
-            "content_html": "<p>Updates will exist in the updates tab and the newest two updates will exist on the home page. Look for updates about Everybot documentation, critical component stock and updates the Everybot Evergreens.</p>",
-            "url": "https://github.com/Everybot-Docs/blog/Update",
-            "title": "This is an update.",
-            "summary": "Updates will exist in the updates tab and the newest two updates will exist on the home page. Look for updates about Everybot documentation, critical component stock and updates the Everybot Evergreens.",
-            "date_modified": "2024-01-08T17:00:00.000Z",
-            "tags": [
-                "Site Update"
             ]
         }
     ]

@@ -4,11 +4,28 @@
         <title>Everybot Docs Blog</title>
         <link>https://github.com/Everybot-Docs/blog</link>
         <description>Everybot Docs Blog</description>
-        <lastBuildDate>Mon, 08 Jan 2024 18:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Jan 2024 18:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Copyright © 2024 THE ROBONAUTS</copyright>
+        <item>
+            <title><![CDATA[Everybot released!]]></title>
+            <link>https://github.com/Everybot-Docs/blog/everybotLive</link>
+            <guid>https://github.com/Everybot-Docs/blog/everybotLive</guid>
+            <pubDate>Wed, 17 Jan 2024 18:00:00 GMT</pubDate>
+            <description><![CDATA[With the Everybot reveal, the following resources have become available:]]></description>
+            <content:encoded><![CDATA[<p>With the Everybot reveal, the following resources have become available:</p>
+<br>
+<ul>
+<li>Manual with sections on the chassis, roller claw, climb and electrical layout</li>
+<li>CAD</li>
+<li>Code</li>
+<li>Bill of materials</li>
+</ul>
+<p>We hope to release our ballast and bumpers sections by the end of the week. Additionally there are some programming specific resources (deploying code, imaging the roboRIO, etc.) on the way!</p>]]></content:encoded>
+            <category>Everybot resources</category>
+        </item>
         <item>
             <title><![CDATA[We are live!]]></title>
             <link>https://github.com/Everybot-Docs/blog/release</link>
@@ -30,15 +47,6 @@
 <p>Currently, we have electrical and chassis sections for the KitBot.</p>
 <p>Plenty more content is on the way, look out for it in the coming weeks.</p>]]></content:encoded>
             <category>Site Updates</category>
-        </item>
-        <item>
-            <title><![CDATA[This is an update.]]></title>
-            <link>https://github.com/Everybot-Docs/blog/Update</link>
-            <guid>https://github.com/Everybot-Docs/blog/Update</guid>
-            <pubDate>Mon, 08 Jan 2024 17:00:00 GMT</pubDate>
-            <description><![CDATA[Updates will exist in the updates tab and the newest two updates will exist on the home page. Look for updates about Everybot documentation, critical component stock and updates the Everybot Evergreens.]]></description>
-            <content:encoded><![CDATA[<p>Updates will exist in the updates tab and the newest two updates will exist on the home page. Look for updates about Everybot documentation, critical component stock and updates the Everybot Evergreens.</p>]]></content:encoded>
-            <category>Site Update</category>
         </item>
     </channel>
 </rss>
