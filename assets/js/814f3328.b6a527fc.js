@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkeverybot_docs=self.webpackChunkeverybot_docs||[]).push([[2535],{5641:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"We are live!","permalink":"/Everybot-Docs/blog/release","unlisted":false},{"title":"This is an update.","permalink":"/Everybot-Docs/blog/Update","unlisted":false}]}')}}]);
