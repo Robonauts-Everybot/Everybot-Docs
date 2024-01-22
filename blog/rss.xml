@@ -4,11 +4,24 @@
         <title>Everybot Docs Blog</title>
         <link>https://github.com/Everybot-Docs/blog</link>
         <description>Everybot Docs Blog</description>
-        <lastBuildDate>Sun, 21 Jan 2024 18:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Jan 2024 22:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Copyright © 2024 THE ROBONAUTS</copyright>
+        <item>
+            <title><![CDATA[Major manual additions (ballast, bumper and more)]]></title>
+            <link>https://github.com/Everybot-Docs/blog/ballastBumpersAndMore</link>
+            <guid>https://github.com/Everybot-Docs/blog/ballastBumpersAndMore</guid>
+            <pubDate>Sun, 21 Jan 2024 22:00:00 GMT</pubDate>
+            <description><![CDATA[We have added an overview of the Everybot, bumpers, ballast and completed robot photos to the Everybot manual.]]></description>
+            <content:encoded><![CDATA[<p>We have added an overview of the Everybot, bumpers, ballast and completed robot photos to the Everybot manual.</p>
+<br>
+<p>Other small changes have been added, the video for quick disconnects is now linked and Roller Claw now has an overview image.</p>
+<br>
+<p>The roller claws now have DXFs, printable 1:1 pdfs and a purchasing link in the Everybot resources tab. The AndyMark plates are not purchasable yet, we will alert you in the <a href="https://discord.gg/n6CUjpmDV6" target="_blank" rel="noopener noreferrer">Discord</a> when they become available.</p>]]></content:encoded>
+            <category>Everybot resources</category>
+        </item>
         <item>
             <title><![CDATA[Climber section revisions]]></title>
             <link>https://github.com/Everybot-Docs/blog/climberRevisions</link>
@@ -16,23 +29,6 @@
             <pubDate>Sun, 21 Jan 2024 18:00:00 GMT</pubDate>
             <description><![CDATA[Additional clarifications have been added for machining unpatterned box tube and for using patterned box tube.]]></description>
             <content:encoded><![CDATA[<p>Additional clarifications have been added for machining unpatterned box tube and for using patterned box tube.</p>]]></content:encoded>
-            <category>Everybot resources</category>
-        </item>
-        <item>
-            <title><![CDATA[Everybot released!]]></title>
-            <link>https://github.com/Everybot-Docs/blog/everybotLive</link>
-            <guid>https://github.com/Everybot-Docs/blog/everybotLive</guid>
-            <pubDate>Wed, 17 Jan 2024 18:00:00 GMT</pubDate>
-            <description><![CDATA[With the Everybot reveal, the following resources have become available:]]></description>
-            <content:encoded><![CDATA[<p>With the Everybot reveal, the following resources have become available:</p>
-<br>
-<ul>
-<li>Manual with sections on the chassis, roller claw, climb and electrical layout</li>
-<li>CAD</li>
-<li>Code</li>
-<li>Bill of materials</li>
-</ul>
-<p>We hope to release our ballast and bumpers sections by the end of the week. Additionally there are some programming specific resources (deploying code, imaging the roboRIO, etc.) on the way!</p>]]></content:encoded>
             <category>Everybot resources</category>
         </item>
     </channel>
