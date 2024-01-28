@@ -4,11 +4,42 @@
         <title>Everybot Docs Blog</title>
         <link>https://github.com/Everybot-Docs/blog</link>
         <description>Everybot Docs Blog</description>
-        <lastBuildDate>Sun, 21 Jan 2024 22:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Jan 2024 18:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Copyright © 2024 THE ROBONAUTS</copyright>
+        <item>
+            <title><![CDATA[Software instructions and troubleshooting]]></title>
+            <link>https://github.com/Everybot-Docs/blog/software</link>
+            <guid>https://github.com/Everybot-Docs/blog/software</guid>
+            <pubDate>Fri, 26 Jan 2024 18:00:00 GMT</pubDate>
+            <description><![CDATA[Instructions for installing software, preparing the robot for code and deploying the starter code have been added.]]></description>
+            <content:encoded><![CDATA[<p>Instructions for installing software, preparing the robot for code and deploying the starter code have been added.</p>
+<br>
+<p>A troubleshooting section has also been added.</p>]]></content:encoded>
+            <category>Everybot resources</category>
+        </item>
+        <item>
+            <title><![CDATA[AndyMark Roller Claw available]]></title>
+            <link>https://github.com/Everybot-Docs/blog/AndyMarkPackage</link>
+            <guid>https://github.com/Everybot-Docs/blog/AndyMarkPackage</guid>
+            <pubDate>Wed, 24 Jan 2024 18:00:00 GMT</pubDate>
+            <description><![CDATA[AndyMark has finalized their 2024 Everybot Roller Claw package which is now purchasable on their website. This kit provides everything required for a working roller claw.]]></description>
+            <content:encoded><![CDATA[<p>AndyMark has finalized their 2024 Everybot Roller Claw package which is now purchasable on their <a href="https://www.andymark.com/products/2024-everybot-intake-kit" target="_blank" rel="noopener noreferrer">website</a>. This kit provides everything required for a working roller claw.</p>
+<br>
+<p>AndyMark's kit is great for teams don't have a majority of the parts but some teams may only be interested in the polycarbonate parts.</p>
+<br>
+<p>Teams who are looking to acquire only the polycarbonate parts could try reaching out to a local team with advanced manufacturing capabilities. Chances are they would be happy to make a set for your team. When reaching out to the team, tell them that there are 0.125" holes in the roller claw, some teams with CNC machines may not have collets/endmill that can cut holes that small. With some minor adjustments in CAD the plates will probably work fine if the 0.125" holes are resized to 0.158" (4mm endmill).</p>
+<br>
+<p>If you are interested in finding a local team to help, you can try using <a href="https://frcmap.com/" target="_blank" rel="noopener noreferrer">FRC map</a>. Right click on a pin near you and look for their contact info on the blue alliance. Social media could be used or the team may have a website with a "contact us" section or email address.</p>
+<br>
+<div style="text-align:center"><div style="overflow:hidden;display:inline-block;margin:0.00px 0.00px"><span style="overflow:hidden;display:inline-block;margin:0.00px 0.00px;border:0.00px solid #000000;transform:rotate(0.00rad) translateZ(0px)"><div style="background-size:cover;background-repeat:no-repeat;position:relative;background-image:url(&quot;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAECAYAAAC3OK7NAAAACXBIWXMAAA7DAAAOwwHHb6hkAAAAnklEQVR4nAXByw7BQABA0flpiZXEQoQPkLDxiI2NECpGi6DVUanGI16p6bQsbH3BdY6wtUJpySF9sn0/kY8lp0+Mmx4ZmxWOCVlnF8Ts5eK+PbzrgtXR5ZJZ1GsbNuGOxy9g/z3hGYWQJkAmEdPER8ZL1tpmao2oFktUyjkKlTyD0EZMtKJ3WzB8OThZwDwOUPeIVr9Bo9mm0+7iny3+wkmCvwQ+KOgAAAAASUVORK5CYII=&quot;);margin-left:0.00px;margin-top:0.00px;transform:rotate(0.00rad) translateZ(0px);max-width:none"><svg style="width:100%;height:auto;max-width:100%;margin-bottom:-4px" width="314" height="113"></svg><noscript><img style="width:100%;height:auto;max-width:100%;margin-bottom:-4px;position:absolute;top:0;left:0" src="/Everybot-Docs/assets/ideal-img/chrome_ochGZTLub9.c774ab9.314.png" srcset="/Everybot-Docs/assets/ideal-img/chrome_ochGZTLub9.c774ab9.314.png 314w" width="314" height="113"></noscript></div></span></div><div style="overflow:hidden;display:inline-block;margin:0.00px 0.00px"><span style="width:306px;height:289px;overflow:hidden;display:inline-block;margin:0.00px 0.00px;border:0.00px solid #000000;transform:rotate(0.00rad) translateZ(0px)"><div style="background-size:cover;background-repeat:no-repeat;position:relative;background-image:url(&quot;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAJCAYAAAALpr0TAAAACXBIWXMAAA7DAAAOwwHHb6hkAAAAzklEQVR4nEXPja6DIAwFYN//KQHlzyF4gcsobJ5FXGaT5oT0I02nEAKMNYgxQWsLpTTW1eE4DgBnXzUREXLKSKki5Yb/0lHp9YV3TdZaWOuwPvxIHwL2PeDcVEr5fZg258A5w7IsELMAYwycczDOIYQY+Au3C4l5DOZ5Hu8zpZRorV3Qew+tNYwx0EpCKQWl5MDG2BvKRWBdLbZtQykVRG10bw29d7ze7wum6BCjh3MOMVWUZ0et99W/Y6Qn/PmCbDz2SCDqY0C1Iuc88oQfjzNYZ1IvmEwAAAAASUVORK5CYII=&quot;);width:306px;height:289px;margin-left:0.00px;margin-top:0.00px;transform:rotate(0.00rad) translateZ(0px);max-width:none"><svg style="width:100%;height:auto;max-width:100%;margin-bottom:-4px" width="545" height="515"></svg><noscript><img style="width:100%;height:auto;max-width:100%;margin-bottom:-4px;position:absolute;top:0;left:0" src="/Everybot-Docs/assets/ideal-img/chrome_LAPKO1tlVv.32169fc.545.png" srcset="/Everybot-Docs/assets/ideal-img/chrome_LAPKO1tlVv.32169fc.545.png 545w" width="545" height="515"></noscript></div></span></div></div>
+<div style="text-align:center"><div style="overflow:hidden;display:inline-block;margin:0.00px 0.00px"><span style="overflow:hidden;display:inline-block;margin:0.00px 0.00px;border:0.00px solid #000000;transform:rotate(0.00rad) translateZ(0px)"><div style="background-size:cover;background-repeat:no-repeat;position:relative;background-image:url(&quot;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAHCAYAAAAxrNxjAAAACXBIWXMAAA7DAAAOwwHHb6hkAAAAlklEQVR4nG2OwQrCMBBE8///51FBikVBm8Q2mybd7JMKDR4ceIcZlpl158uVyUfWopTaKGX7i7uPJ6oMWLmhecC2F6j/YQKNuCU+mMNIkSdWA1Yjtr1B5x8W3LwIzcCAXI1ZlBDeiKwcMjNcSqmb/c+UKyEG1jX3vLWGE8lfs7P3tqaICKra8+/hptonDnnvSUl64z79AbeeEdajdgoqAAAAAElFTkSuQmCC&quot;);margin-left:0.00px;margin-top:0.00px;transform:rotate(0.00rad) translateZ(0px);max-width:none"><svg style="width:100%;height:auto;max-width:100%;margin-bottom:-4px" width="600" height="431"></svg><noscript><img style="width:100%;height:auto;max-width:100%;margin-bottom:-4px;position:absolute;top:0;left:0" src="/Everybot-Docs/assets/ideal-img/chrome_qs6seRxhEp.d0c37a0.600.png" srcset="/Everybot-Docs/assets/ideal-img/chrome_qs6seRxhEp.d0c37a0.600.png 600w,/Everybot-Docs/assets/ideal-img/chrome_qs6seRxhEp.35d6958.1171.png 1171w" width="600" height="431"></noscript></div></span></div></div>
+<br>
+<p>If you want to purchase the roller claw plates individually they can be purchased from Send Cut Send with the following link: <a href="https://cart.sendcutsend.com/egla02wkvbsz" target="_blank" rel="noopener noreferrer">https://cart.sendcutsend.com/egla02wkvbsz</a>. There may a discount link eventually but we cannot promisee that. The plates are ~$50 from Send Cut Send.</p>]]></content:encoded>
+            <category>Everybot resources</category>
+        </item>
         <item>
             <title><![CDATA[Major manual additions (ballast, bumper and more)]]></title>
             <link>https://github.com/Everybot-Docs/blog/ballastBumpersAndMore</link>
@@ -30,45 +61,6 @@
             <description><![CDATA[Additional clarifications have been added for machining unpatterned box tube and for using patterned box tube.]]></description>
             <content:encoded><![CDATA[<p>Additional clarifications have been added for machining unpatterned box tube and for using patterned box tube.</p>]]></content:encoded>
             <category>Everybot resources</category>
-        </item>
-        <item>
-            <title><![CDATA[Everybot released!]]></title>
-            <link>https://github.com/Everybot-Docs/blog/everybotLive</link>
-            <guid>https://github.com/Everybot-Docs/blog/everybotLive</guid>
-            <pubDate>Wed, 17 Jan 2024 18:00:00 GMT</pubDate>
-            <description><![CDATA[With the Everybot reveal, the following resources have become available:]]></description>
-            <content:encoded><![CDATA[<p>With the Everybot reveal, the following resources have become available:</p>
-<br>
-<ul>
-<li>Manual with sections on the chassis, roller claw, climb and electrical layout</li>
-<li>CAD</li>
-<li>Code</li>
-<li>Bill of materials</li>
-</ul>
-<p>We hope to release our ballast and bumpers sections by the end of the week. Additionally there are some programming specific resources (deploying code, imaging the roboRIO, etc.) on the way!</p>]]></content:encoded>
-            <category>Everybot resources</category>
-        </item>
-        <item>
-            <title><![CDATA[We are live!]]></title>
-            <link>https://github.com/Everybot-Docs/blog/release</link>
-            <guid>https://github.com/Everybot-Docs/blog/release</guid>
-            <pubDate>Mon, 08 Jan 2024 18:00:00 GMT</pubDate>
-            <description><![CDATA[Welcome to the Everybot documentation site!]]></description>
-            <content:encoded><![CDATA[<h2 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="welcome-to-the-everybot-documentation-site">Welcome to the Everybot documentation site!<a href="https://github.com/Everybot-Docs/blog/release#welcome-to-the-everybot-documentation-site" class="hash-link" aria-label="Direct link to Welcome to the Everybot documentation site!" title="Direct link to Welcome to the Everybot documentation site!">​</a></h2>
-<br>
-<p>With this move we hope to accomplish the following:</p>
-<br>
-<ul>
-<li>Move away Google Doc as the public facing manual without heavily sacrificing collaboration, printability or ease of use</li>
-<li>Improve navigation of the manual</li>
-<li>Host resources relevant to Everybot and FRC teams in general</li>
-<li>Allow for the integration of those resources into the manual to give more context to specific actions</li>
-<li>Provide updates to teams on additions/changes to the manual and major events (critical out of stock components, etc.)</li>
-</ul>
-<br>
-<p>Currently, we have electrical and chassis sections for the KitBot.</p>
-<p>Plenty more content is on the way, look out for it in the coming weeks.</p>]]></content:encoded>
-            <category>Site Updates</category>
         </item>
     </channel>
 </rss>
