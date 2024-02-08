@@ -2,12 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/Everybot-Docs/blog</id>
     <title>Everybot Docs Blog</title>
-    <updated>2024-01-31T18:00:00.000Z</updated>
+    <updated>2024-02-07T18:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/Everybot-Docs/blog"/>
     <subtitle>Everybot Docs Blog</subtitle>
     <icon>https://github.com/Everybot-Docs/img/favicon.ico</icon>
     <rights>Copyright © 2024 THE ROBONAUTS</rights>
+    <entry>
+        <title type="html"><![CDATA[The Robonauts Everybot Championship Grant powered by S&K Technologies]]></title>
+        <id>https://github.com/Everybot-Docs/blog/Grant</id>
+        <link href="https://github.com/Everybot-Docs/blog/Grant"/>
+        <updated>2024-02-07T18:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The Robonauts are excited to announce that for the 2024 season S&K Technologies will be funding a grant covering FIRST Championship registration fees for a qualified team using an Everybot or “Everybot-inspired”* mechanism. More information on the grant can be found here.]]></summary>
+        <content type="html"><![CDATA[<p>The Robonauts are excited to announce that for the 2024 season S&amp;K Technologies will be funding a grant covering FIRST Championship registration fees for a qualified team using an Everybot or “Everybot-inspired”* mechanism. More information on the grant can be found <a href="https://github.com/Everybot-Docs/grant/">here</a>.</p>]]></content>
+        <category label="Everybot" term="Everybot"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Spark Max Motor Controller out of stock]]></title>
         <id>https://github.com/Everybot-Docs/blog/sparkmax</id>
@@ -48,19 +57,6 @@
 <div style="text-align:center"><div style="overflow:hidden;display:inline-block;margin:0.00px 0.00px"><span style="overflow:hidden;display:inline-block;margin:0.00px 0.00px;border:0.00px solid #000000;transform:rotate(0.00rad) translateZ(0px)"><div style="background-size:cover;background-repeat:no-repeat;position:relative;background-image:url(&quot;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAHCAYAAAAxrNxjAAAACXBIWXMAAA7DAAAOwwHHb6hkAAAAlklEQVR4nG2OwQrCMBBE8///51FBikVBm8Q2mybd7JMKDR4ceIcZlpl158uVyUfWopTaKGX7i7uPJ6oMWLmhecC2F6j/YQKNuCU+mMNIkSdWA1Yjtr1B5x8W3LwIzcCAXI1ZlBDeiKwcMjNcSqmb/c+UKyEG1jX3vLWGE8lfs7P3tqaICKra8+/hptonDnnvSUl64z79AbeeEdajdgoqAAAAAElFTkSuQmCC&quot;);margin-left:0.00px;margin-top:0.00px;transform:rotate(0.00rad) translateZ(0px);max-width:none"><svg style="width:100%;height:auto;max-width:100%;margin-bottom:-4px" width="600" height="431"></svg><noscript><img style="width:100%;height:auto;max-width:100%;margin-bottom:-4px;position:absolute;top:0;left:0" src="/Everybot-Docs/assets/ideal-img/chrome_qs6seRxhEp.d0c37a0.600.png" srcset="/Everybot-Docs/assets/ideal-img/chrome_qs6seRxhEp.d0c37a0.600.png 600w,/Everybot-Docs/assets/ideal-img/chrome_qs6seRxhEp.35d6958.1171.png 1171w" width="600" height="431"></noscript></div></span></div></div>
 <br>
 <p>If you want to purchase the roller claw plates individually they can be purchased from Send Cut Send with the following link: <a href="https://cart.sendcutsend.com/egla02wkvbsz" target="_blank" rel="noopener noreferrer">https://cart.sendcutsend.com/egla02wkvbsz</a>. There may a discount link eventually but we cannot promisee that. The plates are ~$50 from Send Cut Send.</p>]]></content>
-        <category label="Everybot resources" term="Everybot resources"/>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Major manual additions (ballast, bumper and more)]]></title>
-        <id>https://github.com/Everybot-Docs/blog/ballastBumpersAndMore</id>
-        <link href="https://github.com/Everybot-Docs/blog/ballastBumpersAndMore"/>
-        <updated>2024-01-21T22:00:00.000Z</updated>
-        <summary type="html"><![CDATA[We have added an overview of the Everybot, bumpers, ballast and completed robot photos to the Everybot manual.]]></summary>
-        <content type="html"><![CDATA[<p>We have added an overview of the Everybot, bumpers, ballast and completed robot photos to the Everybot manual.</p>
-<br>
-<p>Other small changes have been added, the video for quick disconnects is now linked and Roller Claw now has an overview image.</p>
-<br>
-<p>The roller claws now have DXFs, printable 1:1 pdfs and a purchasing link in the Everybot resources tab. The AndyMark plates are not purchasable yet, we will alert you in the <a href="https://discord.gg/n6CUjpmDV6" target="_blank" rel="noopener noreferrer">Discord</a> when they become available.</p>]]></content>
         <category label="Everybot resources" term="Everybot resources"/>
     </entry>
 </feed>
