@@ -5,6 +5,17 @@
     "description": "Everybot Docs Blog",
     "items": [
         {
+            "id": "https://github.com/Everybot-Docs/blog/Grant Award",
+            "content_html": "<p>The Robonauts Everybot Championship Grant powered by S&amp;K Technologies has been awarded to FRC Team 9668 West Robotics from Knoxville, Tennessee.</p>",
+            "url": "https://github.com/Everybot-Docs/blog/Grant Award",
+            "title": "Everybot Championship Grant Awarded",
+            "summary": "The Robonauts Everybot Championship Grant powered by S&K Technologies has been awarded to FRC Team 9668 West Robotics from Knoxville, Tennessee.",
+            "date_modified": "2024-04-10T18:00:00.000Z",
+            "tags": [
+                "Everybot"
+            ]
+        },
+        {
             "id": "https://github.com/Everybot-Docs/blog/Hex shaft",
             "content_html": "<p>1/2\" hex shaft is needed for both the climber and roller claw was left of the bill of materials due to an oversight on our parts. Links to purchase hex shaft can be found in the <a href=\"https://docs.google.com/spreadsheets/d/1JyhVJVZ0inz81Wz3QoG46LAQDKUhNX0DPzLpNda1-z4/edit#gid=0\" target=\"_blank\" rel=\"noopener noreferrer\">bill of materials</a> now. Please note that rounded 1/2\" hex shaft also works, allowing the hex shaft to fit into  13.75mm bearings.</p>",
             "url": "https://github.com/Everybot-Docs/blog/Hex shaft",
@@ -35,17 +46,6 @@
             "date_modified": "2024-01-31T18:00:00.000Z",
             "tags": [
                 "Stock"
-            ]
-        },
-        {
-            "id": "https://github.com/Everybot-Docs/blog/software",
-            "content_html": "<p>Instructions for installing software, preparing the robot for code and deploying the starter code have been added.</p>\n<br>\n<p>A troubleshooting section has also been added.</p>",
-            "url": "https://github.com/Everybot-Docs/blog/software",
-            "title": "Software instructions and troubleshooting",
-            "summary": "Instructions for installing software, preparing the robot for code and deploying the starter code have been added.",
-            "date_modified": "2024-01-26T18:00:00.000Z",
-            "tags": [
-                "Everybot resources"
             ]
         }
     ]
