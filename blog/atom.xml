@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://github.com/Everybot-Docs/blog</id>
+    <title>Everybot Docs Blog</title>
+    <updated>2025-01-14T18:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://github.com/Everybot-Docs/blog"/>
+    <subtitle>Everybot Docs Blog</subtitle>
+    <icon>https://github.com/Everybot-Docs/img/favicon.ico</icon>
+    <rights>Copyright © 2025 THE ROBONAUTS</rights>
+    <entry>
+        <title type="html"><![CDATA[The Everybot will be revealed tonight]]></title>
+        <id>https://github.com/Everybot-Docs/blog/2025 Reveal Soon</id>
+        <link href="https://github.com/Everybot-Docs/blog/2025 Reveal Soon"/>
+        <updated>2025-01-14T18:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The Everybot is being revealed tonight at 6pm cst.]]></summary>
+        <content type="html"><![CDATA[<p>The Everybot is being revealed tonight at 6pm cst.</p>]]></content>
+        <category label="Everybot" term="Everybot"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Documentation is on the way]]></title>
+        <id>https://github.com/Everybot-Docs/blog/2025 Documentation</id>
+        <link href="https://github.com/Everybot-Docs/blog/2025 Documentation"/>
+        <updated>2025-01-14T18:00:00.000Z</updated>
+        <summary type="html"><![CDATA[On release we will not have all of the documentation completed but we working our hardest to get it to you.]]></summary>
+        <content type="html"><![CDATA[<p>On release we will not have all of the documentation completed but we working our hardest to get it to you.</p>]]></content>
+        <category label="Everybot" term="Everybot"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Website being readied for 2025]]></title>
+        <id>https://github.com/Everybot-Docs/blog/2025 Prep</id>
+        <link href="https://github.com/Everybot-Docs/blog/2025 Prep"/>
+        <updated>2025-01-14T18:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The previous documentation has been archived at this site.]]></summary>
+        <content type="html"><![CDATA[<p>The previous documentation has been archived at <a href="https://robonauts-everybot.github.io/2024-Everybot-Documentation/" target="_blank" rel="noopener noreferrer">this site</a>.</p>]]></content>
+        <category label="Everybot" term="Everybot"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Everybot Championship Grant Awarded]]></title>
+        <id>https://github.com/Everybot-Docs/blog/Grant Award</id>
+        <link href="https://github.com/Everybot-Docs/blog/Grant Award"/>
+        <updated>2024-04-10T18:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The Robonauts Everybot Championship Grant powered by S&K Technologies has been awarded to FRC Team 9668 West Robotics from Knoxville, Tennessee.]]></summary>
+        <content type="html"><![CDATA[<p>The Robonauts Everybot Championship Grant powered by S&amp;K Technologies has been awarded to FRC Team 9668 West Robotics from Knoxville, Tennessee.</p>]]></content>
+        <category label="Everybot" term="Everybot"/>
+    </entry>
+</feed>

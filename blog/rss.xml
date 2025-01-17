@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Everybot Docs Blog</title>
+        <link>https://github.com/Everybot-Docs/blog</link>
+        <description>Everybot Docs Blog</description>
+        <lastBuildDate>Tue, 14 Jan 2025 18:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>en</language>
+        <copyright>Copyright © 2025 THE ROBONAUTS</copyright>
+        <item>
+            <title><![CDATA[The Everybot will be revealed tonight]]></title>
+            <link>https://github.com/Everybot-Docs/blog/2025 Reveal Soon</link>
+            <guid>https://github.com/Everybot-Docs/blog/2025 Reveal Soon</guid>
+            <pubDate>Tue, 14 Jan 2025 18:00:00 GMT</pubDate>
+            <description><![CDATA[The Everybot is being revealed tonight at 6pm cst.]]></description>
+            <content:encoded><![CDATA[<p>The Everybot is being revealed tonight at 6pm cst.</p>]]></content:encoded>
+            <category>Everybot</category>
+        </item>
+        <item>
+            <title><![CDATA[Documentation is on the way]]></title>
+            <link>https://github.com/Everybot-Docs/blog/2025 Documentation</link>
+            <guid>https://github.com/Everybot-Docs/blog/2025 Documentation</guid>
+            <pubDate>Tue, 14 Jan 2025 18:00:00 GMT</pubDate>
+            <description><![CDATA[On release we will not have all of the documentation completed but we working our hardest to get it to you.]]></description>
+            <content:encoded><![CDATA[<p>On release we will not have all of the documentation completed but we working our hardest to get it to you.</p>]]></content:encoded>
+            <category>Everybot</category>
+        </item>
+        <item>
+            <title><![CDATA[Website being readied for 2025]]></title>
+            <link>https://github.com/Everybot-Docs/blog/2025 Prep</link>
+            <guid>https://github.com/Everybot-Docs/blog/2025 Prep</guid>
+            <pubDate>Tue, 14 Jan 2025 18:00:00 GMT</pubDate>
+            <description><![CDATA[The previous documentation has been archived at this site.]]></description>
+            <content:encoded><![CDATA[<p>The previous documentation has been archived at <a href="https://robonauts-everybot.github.io/2024-Everybot-Documentation/" target="_blank" rel="noopener noreferrer">this site</a>.</p>]]></content:encoded>
+            <category>Everybot</category>
+        </item>
+        <item>
+            <title><![CDATA[Everybot Championship Grant Awarded]]></title>
+            <link>https://github.com/Everybot-Docs/blog/Grant Award</link>
+            <guid>https://github.com/Everybot-Docs/blog/Grant Award</guid>
+            <pubDate>Wed, 10 Apr 2024 18:00:00 GMT</pubDate>
+            <description><![CDATA[The Robonauts Everybot Championship Grant powered by S&K Technologies has been awarded to FRC Team 9668 West Robotics from Knoxville, Tennessee.]]></description>
+            <content:encoded><![CDATA[<p>The Robonauts Everybot Championship Grant powered by S&amp;K Technologies has been awarded to FRC Team 9668 West Robotics from Knoxville, Tennessee.</p>]]></content:encoded>
+            <category>Everybot</category>
+        </item>
+    </channel>
+</rss>

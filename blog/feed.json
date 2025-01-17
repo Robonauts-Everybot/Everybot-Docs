@@ -1,0 +1,52 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Everybot Docs Blog",
+    "home_page_url": "https://github.com/Everybot-Docs/blog",
+    "description": "Everybot Docs Blog",
+    "items": [
+        {
+            "id": "https://github.com/Everybot-Docs/blog/2025 Reveal Soon",
+            "content_html": "<p>The Everybot is being revealed tonight at 6pm cst.</p>",
+            "url": "https://github.com/Everybot-Docs/blog/2025 Reveal Soon",
+            "title": "The Everybot will be revealed tonight",
+            "summary": "The Everybot is being revealed tonight at 6pm cst.",
+            "date_modified": "2025-01-14T18:00:00.000Z",
+            "tags": [
+                "Everybot"
+            ]
+        },
+        {
+            "id": "https://github.com/Everybot-Docs/blog/2025 Documentation",
+            "content_html": "<p>On release we will not have all of the documentation completed but we working our hardest to get it to you.</p>",
+            "url": "https://github.com/Everybot-Docs/blog/2025 Documentation",
+            "title": "Documentation is on the way",
+            "summary": "On release we will not have all of the documentation completed but we working our hardest to get it to you.",
+            "date_modified": "2025-01-14T18:00:00.000Z",
+            "tags": [
+                "Everybot"
+            ]
+        },
+        {
+            "id": "https://github.com/Everybot-Docs/blog/2025 Prep",
+            "content_html": "<p>The previous documentation has been archived at <a href=\"https://robonauts-everybot.github.io/2024-Everybot-Documentation/\" target=\"_blank\" rel=\"noopener noreferrer\">this site</a>.</p>",
+            "url": "https://github.com/Everybot-Docs/blog/2025 Prep",
+            "title": "Website being readied for 2025",
+            "summary": "The previous documentation has been archived at this site.",
+            "date_modified": "2025-01-14T18:00:00.000Z",
+            "tags": [
+                "Everybot"
+            ]
+        },
+        {
+            "id": "https://github.com/Everybot-Docs/blog/Grant Award",
+            "content_html": "<p>The Robonauts Everybot Championship Grant powered by S&amp;K Technologies has been awarded to FRC Team 9668 West Robotics from Knoxville, Tennessee.</p>",
+            "url": "https://github.com/Everybot-Docs/blog/Grant Award",
+            "title": "Everybot Championship Grant Awarded",
+            "summary": "The Robonauts Everybot Championship Grant powered by S&K Technologies has been awarded to FRC Team 9668 West Robotics from Knoxville, Tennessee.",
+            "date_modified": "2024-04-10T18:00:00.000Z",
+            "tags": [
+                "Everybot"
+            ]
+        }
+    ]
+}
