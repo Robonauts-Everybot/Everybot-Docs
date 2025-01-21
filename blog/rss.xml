@@ -19,6 +19,16 @@
             <category>Everybot</category>
         </item>
         <item>
+            <title><![CDATA[Everybot code and the swerve everybot generator was released!]]></title>
+            <link>https://github.com/Everybot-Docs/blog/Code and Swerve CAD</link>
+            <guid>https://github.com/Everybot-Docs/blog/Code and Swerve CAD</guid>
+            <pubDate>Sat, 18 Jan 2025 18:00:00 GMT</pubDate>
+            <description><![CDATA[The code can be found at our github.]]></description>
+            <content:encoded><![CDATA[<p>The code can be found at our <a href="https://github.com/Robonauts-Everybot/Everybot-2025-Code" target="_blank" rel="noopener noreferrer">github</a>.</p>
+<p>For the swerve everybot generator please read our <a href="https://www.chiefdelphi.com/t/the-2025-robonauts-frc-everybot-low-resource-build/478987/63" target="_blank" rel="noopener noreferrer">chief post</a>, which will be translated to the website soon.</p>]]></content:encoded>
+            <category>Everybot</category>
+        </item>
+        <item>
             <title><![CDATA[The Chassis Build Guide has been released]]></title>
             <link>https://github.com/Everybot-Docs/blog/2025 Deep Climb is out</link>
             <guid>https://github.com/Everybot-Docs/blog/2025 Deep Climb is out</guid>
@@ -34,15 +44,6 @@
             <pubDate>Wed, 15 Jan 2025 18:00:00 GMT</pubDate>
             <description><![CDATA[The chassis build guide is now out.]]></description>
             <content:encoded><![CDATA[<p>The chassis build guide is now out.</p>]]></content:encoded>
-            <category>Everybot</category>
-        </item>
-        <item>
-            <title><![CDATA[The Everybot will be revealed tonight]]></title>
-            <link>https://github.com/Everybot-Docs/blog/2025 Reveal Soon</link>
-            <guid>https://github.com/Everybot-Docs/blog/2025 Reveal Soon</guid>
-            <pubDate>Tue, 14 Jan 2025 18:00:00 GMT</pubDate>
-            <description><![CDATA[The Everybot is being revealed tonight at 6pm cst.]]></description>
-            <content:encoded><![CDATA[<p>The Everybot is being revealed tonight at 6pm cst.</p>]]></content:encoded>
             <category>Everybot</category>
         </item>
     </channel>

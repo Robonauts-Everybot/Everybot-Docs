@@ -16,6 +16,17 @@
             ]
         },
         {
+            "id": "https://github.com/Everybot-Docs/blog/Code and Swerve CAD",
+            "content_html": "<p>The code can be found at our <a href=\"https://github.com/Robonauts-Everybot/Everybot-2025-Code\" target=\"_blank\" rel=\"noopener noreferrer\">github</a>.</p>\n<p>For the swerve everybot generator please read our <a href=\"https://www.chiefdelphi.com/t/the-2025-robonauts-frc-everybot-low-resource-build/478987/63\" target=\"_blank\" rel=\"noopener noreferrer\">chief post</a>, which will be translated to the website soon.</p>",
+            "url": "https://github.com/Everybot-Docs/blog/Code and Swerve CAD",
+            "title": "Everybot code and the swerve everybot generator was released!",
+            "summary": "The code can be found at our github.",
+            "date_modified": "2025-01-18T18:00:00.000Z",
+            "tags": [
+                "Everybot"
+            ]
+        },
+        {
             "id": "https://github.com/Everybot-Docs/blog/2025 Deep Climb is out",
             "content_html": "<p>The deep climb build guide is now out.</p>",
             "url": "https://github.com/Everybot-Docs/blog/2025 Deep Climb is out",
@@ -33,17 +44,6 @@
             "title": "The Chassis Build Guide has been released",
             "summary": "The chassis build guide is now out.",
             "date_modified": "2025-01-15T18:00:00.000Z",
-            "tags": [
-                "Everybot"
-            ]
-        },
-        {
-            "id": "https://github.com/Everybot-Docs/blog/2025 Reveal Soon",
-            "content_html": "<p>The Everybot is being revealed tonight at 6pm cst.</p>",
-            "url": "https://github.com/Everybot-Docs/blog/2025 Reveal Soon",
-            "title": "The Everybot will be revealed tonight",
-            "summary": "The Everybot is being revealed tonight at 6pm cst.",
-            "date_modified": "2025-01-14T18:00:00.000Z",
             "tags": [
                 "Everybot"
             ]

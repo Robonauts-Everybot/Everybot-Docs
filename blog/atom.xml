@@ -18,6 +18,16 @@
         <category label="Everybot" term="Everybot"/>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Everybot code and the swerve everybot generator was released!]]></title>
+        <id>https://github.com/Everybot-Docs/blog/Code and Swerve CAD</id>
+        <link href="https://github.com/Everybot-Docs/blog/Code and Swerve CAD"/>
+        <updated>2025-01-18T18:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The code can be found at our github.]]></summary>
+        <content type="html"><![CDATA[<p>The code can be found at our <a href="https://github.com/Robonauts-Everybot/Everybot-2025-Code" target="_blank" rel="noopener noreferrer">github</a>.</p>
+<p>For the swerve everybot generator please read our <a href="https://www.chiefdelphi.com/t/the-2025-robonauts-frc-everybot-low-resource-build/478987/63" target="_blank" rel="noopener noreferrer">chief post</a>, which will be translated to the website soon.</p>]]></content>
+        <category label="Everybot" term="Everybot"/>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[The Chassis Build Guide has been released]]></title>
         <id>https://github.com/Everybot-Docs/blog/2025 Deep Climb is out</id>
         <link href="https://github.com/Everybot-Docs/blog/2025 Deep Climb is out"/>
@@ -33,15 +43,6 @@
         <updated>2025-01-15T18:00:00.000Z</updated>
         <summary type="html"><![CDATA[The chassis build guide is now out.]]></summary>
         <content type="html"><![CDATA[<p>The chassis build guide is now out.</p>]]></content>
-        <category label="Everybot" term="Everybot"/>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Everybot will be revealed tonight]]></title>
-        <id>https://github.com/Everybot-Docs/blog/2025 Reveal Soon</id>
-        <link href="https://github.com/Everybot-Docs/blog/2025 Reveal Soon"/>
-        <updated>2025-01-14T18:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The Everybot is being revealed tonight at 6pm cst.]]></summary>
-        <content type="html"><![CDATA[<p>The Everybot is being revealed tonight at 6pm cst.</p>]]></content>
         <category label="Everybot" term="Everybot"/>
     </entry>
 </feed>
