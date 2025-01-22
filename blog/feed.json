@@ -5,22 +5,22 @@
     "description": "Everybot Docs Blog",
     "items": [
         {
-            "id": "https://github.com/Everybot-Docs/blog/2025 Algae Arm and Coral",
-            "content_html": "<p>Check them out!</p>",
-            "url": "https://github.com/Everybot-Docs/blog/2025 Algae Arm and Coral",
-            "title": "The Algae Arm and Coral Basket Guide has been released",
-            "summary": "Check them out!",
-            "date_modified": "2025-01-18T18:00:00.000Z",
-            "tags": [
-                "Everybot"
-            ]
-        },
-        {
             "id": "https://github.com/Everybot-Docs/blog/Code and Swerve CAD",
             "content_html": "<p>The code can be found at our <a href=\"https://github.com/Robonauts-Everybot/Everybot-2025-Code\" target=\"_blank\" rel=\"noopener noreferrer\">github</a>.</p>\n<p>For the swerve everybot generator please read our <a href=\"https://www.chiefdelphi.com/t/the-2025-robonauts-frc-everybot-low-resource-build/478987/63\" target=\"_blank\" rel=\"noopener noreferrer\">chief post</a>, which will be translated to the website soon.</p>",
             "url": "https://github.com/Everybot-Docs/blog/Code and Swerve CAD",
             "title": "Everybot code and the swerve everybot generator was released!",
             "summary": "The code can be found at our github.",
+            "date_modified": "2025-01-21T18:00:00.000Z",
+            "tags": [
+                "Everybot"
+            ]
+        },
+        {
+            "id": "https://github.com/Everybot-Docs/blog/2025 Algae Arm and Coral",
+            "content_html": "<p>Check them out!</p>",
+            "url": "https://github.com/Everybot-Docs/blog/2025 Algae Arm and Coral",
+            "title": "The Algae Arm and Coral Basket Guide has been released",
+            "summary": "Check them out!",
             "date_modified": "2025-01-18T18:00:00.000Z",
             "tags": [
                 "Everybot"
