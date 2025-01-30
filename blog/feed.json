@@ -5,6 +5,17 @@
     "description": "Everybot Docs Blog",
     "items": [
         {
+            "id": "https://github.com/Everybot-Docs/blog/Electrical and Start of Code Documentation",
+            "content_html": "<p>The Electrical documentation is out,</p>",
+            "url": "https://github.com/Everybot-Docs/blog/Electrical and Start of Code Documentation",
+            "title": "Electrical and Start of Code Documentation",
+            "summary": "The Electrical documentation is out,",
+            "date_modified": "2025-01-28T18:00:00.000Z",
+            "tags": [
+                "Everybot"
+            ]
+        },
+        {
             "id": "https://github.com/Everybot-Docs/blog/Code and Swerve CAD",
             "content_html": "<p>The code can be found at our <a href=\"https://github.com/Robonauts-Everybot/Everybot-2025-Code\" target=\"_blank\" rel=\"noopener noreferrer\">github</a>.</p>\n<p>For the swerve everybot generator please read our <a href=\"https://www.chiefdelphi.com/t/the-2025-robonauts-frc-everybot-low-resource-build/478987/63\" target=\"_blank\" rel=\"noopener noreferrer\">chief post</a>, which will be translated to the website soon.</p>",
             "url": "https://github.com/Everybot-Docs/blog/Code and Swerve CAD",
@@ -33,17 +44,6 @@
             "title": "The Chassis Build Guide has been released",
             "summary": "The deep climb build guide is now out.",
             "date_modified": "2025-01-17T18:00:00.000Z",
-            "tags": [
-                "Everybot"
-            ]
-        },
-        {
-            "id": "https://github.com/Everybot-Docs/blog/2025 Chassis",
-            "content_html": "<p>The chassis build guide is now out.</p>",
-            "url": "https://github.com/Everybot-Docs/blog/2025 Chassis",
-            "title": "The Chassis Build Guide has been released",
-            "summary": "The chassis build guide is now out.",
-            "date_modified": "2025-01-15T18:00:00.000Z",
             "tags": [
                 "Everybot"
             ]
