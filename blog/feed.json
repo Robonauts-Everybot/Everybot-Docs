@@ -5,6 +5,17 @@
     "description": "Everybot Docs Blog",
     "items": [
         {
+            "id": "https://github.com/Everybot-Docs/blog/Major correction to 02_Deep_Climb_Post",
+            "content_html": "<p>The 02_Deep_Climb_Post placed the holes for the upper tube plug an inch lower than intended. The holes are now at 2.5\". We have updated the drawings, manual and CAD to reflect this change.</p>",
+            "url": "https://github.com/Everybot-Docs/blog/Major correction to 02_Deep_Climb_Post",
+            "title": "Major correction to 02_Deep_Climb_Post",
+            "summary": "The 02DeepClimb_Post placed the holes for the upper tube plug an inch lower than intended. The holes are now at 2.5\". We have updated the drawings, manual and CAD to reflect this change.",
+            "date_modified": "2025-02-08T18:00:00.000Z",
+            "tags": [
+                "Everybot"
+            ]
+        },
+        {
             "id": "https://github.com/Everybot-Docs/blog/Electrical and Start of Code Documentation",
             "content_html": "<p>The Electrical documentation is out,</p>",
             "url": "https://github.com/Everybot-Docs/blog/Electrical and Start of Code Documentation",
@@ -33,17 +44,6 @@
             "title": "The Algae Arm and Coral Basket Guide has been released",
             "summary": "Check them out!",
             "date_modified": "2025-01-18T18:00:00.000Z",
-            "tags": [
-                "Everybot"
-            ]
-        },
-        {
-            "id": "https://github.com/Everybot-Docs/blog/2025 Deep Climb is out",
-            "content_html": "<p>The deep climb build guide is now out.</p>",
-            "url": "https://github.com/Everybot-Docs/blog/2025 Deep Climb is out",
-            "title": "The Chassis Build Guide has been released",
-            "summary": "The deep climb build guide is now out.",
-            "date_modified": "2025-01-17T18:00:00.000Z",
             "tags": [
                 "Everybot"
             ]
